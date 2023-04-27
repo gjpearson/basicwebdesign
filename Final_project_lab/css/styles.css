@@ -3,9 +3,16 @@ body {
     color: white;
 }
 
-video, audio {
+audio {
     display: block;
     width: 75%;
+    margin: 20px auto;
+}
+
+iframe {
+    display: block;
+    width: 100%;
+    height: 300px;
     margin: 20px auto;
 }
 
